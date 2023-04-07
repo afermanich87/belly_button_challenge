@@ -1,9 +1,9 @@
 # belly_button_challenge
 
 
-My repository contains the following link to see my created dashboard.
+My repository contains the following GitHub Pages link:
 
-The dat
+The data folder contains the samples.json file that the data was read from. The StarterCode folder contains the final JavaScript code that was used to create both the bar and bubble charts. 
 
 
 
@@ -40,4 +40,14 @@ The dat
 6. Update all the plots when a new sample is selected.
 
 7. Deploy your app to GitHub Pages.
+
+
+## Sources
+
+* Referenced stackoverflow for help with D3 and Javascript code
+* Used `https://plotly.com/javascript/` for help with creating both plots
+* Used reworked example from instructor from 14.3 activity 10 
+* Used 14.2 activities 8 & 9 for refresher on slicing and reversing data
+* Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/Links to an external site.
+
 
