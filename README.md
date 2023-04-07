@@ -1,7 +1,7 @@
 # belly_button_challenge
 
 
-My repository contains the following GitHub Pages link:
+My repository contains the following GitHub Pages link: `https://afermanich87.github.io/belly_button_challenge/`
 
 The data folder contains the samples.json file that the data was read from. The StarterCode folder contains the final JavaScript code that was used to create both the bar and bubble charts. 
 
